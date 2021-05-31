@@ -1,2 +1,2 @@
-# 16_Professional_Curriculum_Vitae
+# 16_Professional_Resume
 Professional Online Resume
